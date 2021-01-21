@@ -1,4 +1,4 @@
-const cdn = require('./cdn');
+const cdn = require('./cdn.js');
 
 module.exports = config => {
   // 如果启用了cdn,则添加cdn内容
