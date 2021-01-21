@@ -1,24 +1,41 @@
-# visual-dashboard
+# PH-FE-TEMPLATE
 
-## Project setup
-```
+## 介绍
+
+vue3 + ts脚手架
+
+## 项目依赖安装
+
+```bash
 yarn install
 ```
 
-### Compiles and hot-reloads for development
-```
+### 在本地环境编译代码
+
+```bash
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
+### 编译代码
+
+```bash
 yarn build
 ```
 
-### Lints and fixes files
+## 创建新页面
+
+```bash
+yarn new
 ```
+
+### 验证代码格式
+
+```bash
 yarn lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### 验证 html,vue,css,sass,scss 格式并修复
+
+```bash
+yarn stylelint
+```
