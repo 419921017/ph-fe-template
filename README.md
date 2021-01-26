@@ -1,4 +1,4 @@
-# PH-FE-TEMPLATE
+# PH-FE-TEMPLATE-VUE
 
 ## 介绍
 
